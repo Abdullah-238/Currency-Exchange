@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Currency_Change.pgPrices"
+             Shell.NavBarIsVisible="False"
+               xmlns:lo="clr-namespace:Currency_Change"
+             Title="Currency Conversion Rate"
+             >
+
+    <ContentPage.BindingContext>
+        <lo:clsRates></lo:clsRates>
+    </ContentPage.BindingContext>
+
+    <ScrollView Padding="24">
+        <StackLayout Spacing="32">
+
+           
+
+            <CollectionView ItemsSource="{Binding Obj.conversion_rates}"
+                        BackgroundColor="#FFFFFF"
+                        ItemSizingStrategy="MeasureFirstItem">
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout Spacing="12" Padding="8">
+
+                            <!-- Currency Label -->
+                            <Label Text="{Binding Key}"
+                               FontSize="22"
+                               FontAttributes="Bold"
+                               TextColor="#4CAF50"
+                               HorizontalOptions="Start" />
+
+                            <!-- Conversion Rate Label -->
+                            <Label Text="{Binding Value}"
+                               FontSize="18"
+                               TextColor="#555"
+                               HorizontalOptions="StartAndExpand" />
+
+                            <!-- Separator Line -->
+                            <BoxView HeightRequest="1"
+                                 BackgroundColor="#E0E0E0"
+                                 HorizontalOptions="FillAndExpand" />
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </StackLayout>
+    </ScrollView>
+
+
+</ContentPage>

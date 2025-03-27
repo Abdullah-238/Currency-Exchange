@@ -1,0 +1,5 @@
+File=Resources\Images\all.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\dotnet_bot.png;Link=;BaseSize=300,185;Resize=True;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\exchange.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\money.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\AppIcon\appiconex.png;Link=;BaseSize=;Resize=;TintColor=;Color=#FFFFFF;IsAppIcon=True;ForegroundScale=0.60;ForegroundFile=

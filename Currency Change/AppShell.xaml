@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Currency_Change.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Currency_Change"
+    Shell.FlyoutBehavior="Disabled"
+    Title="Currency_Change"
+    >
+
+
+
+    <TabBar>
+
+        <ShellContent
+        Title="Convert"
+        Icon="exchange"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="exchange" />
+
+        <ShellContent
+         Title="Get Price"
+         Icon="money"
+         ContentTemplate="{DataTemplate local:pgGetPrice}"
+         Route="money" />
+
+        <ShellContent
+         Title="Currencies"
+         Icon="all"
+         ContentTemplate="{DataTemplate local:pgPrices}"
+         Route="all" />
+
+    </TabBar>
+
+
+</Shell>

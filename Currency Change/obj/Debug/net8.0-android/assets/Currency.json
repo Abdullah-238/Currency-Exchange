@@ -1,0 +1,862 @@
+[
+  {
+    "CurrencyName": "1inch",
+    "CurrencyCode": "1inch"
+  },
+  {
+    "CurrencyName": "Aave",
+    "CurrencyCode": "aave"
+  },
+  {
+    "CurrencyName": "Cardano",
+    "CurrencyCode": "ada"
+  },
+  {
+    "CurrencyName": "Emirati Dirham",
+    "CurrencyCode": "aed"
+  },
+  {
+    "CurrencyName": "Afghan Afghani",
+    "CurrencyCode": "afn"
+  },
+  {
+    "CurrencyName": "SingularityNET",
+    "CurrencyCode": "agix"
+  },
+  {
+    "CurrencyName": "Akash Network",
+    "CurrencyCode": "akt"
+  },
+  {
+    "CurrencyName": "Algorand",
+    "CurrencyCode": "algo"
+  },
+  {
+    "CurrencyName": "Albanian Lek",
+    "CurrencyCode": "all"
+  },
+  {
+    "CurrencyName": "Armenian Dram",
+    "CurrencyCode": "amd"
+  },
+  {
+    "CurrencyName": "Amp",
+    "CurrencyCode": "amp"
+  },
+  {
+    "CurrencyName": "Dutch Guilder",
+    "CurrencyCode": "ang"
+  },
+  {
+    "CurrencyName": "Angolan Kwanza",
+    "CurrencyCode": "aoa"
+  },
+  {
+    "CurrencyName": "ApeCoin",
+    "CurrencyCode": "ape"
+  },
+  {
+    "CurrencyName": "Aptos",
+    "CurrencyCode": "apt"
+  },
+  {
+    "CurrencyName": "Arweave",
+    "CurrencyCode": "ar"
+  },
+  {
+    "CurrencyName": "Arbitrum",
+    "CurrencyCode": "arb"
+  },
+  {
+    "CurrencyName": "Argentine Peso",
+    "CurrencyCode": "ars"
+  },
+  {
+    "CurrencyName": "Cosmos",
+    "CurrencyCode": "atom"
+  },
+  {
+    "CurrencyName": "Austrian Schilling",
+    "CurrencyCode": "ats"
+  },
+  {
+    "CurrencyName": "Australian Dollar",
+    "CurrencyCode": "aud"
+  },
+  {
+    "CurrencyName": "Avalanche",
+    "CurrencyCode": "avax"
+  },
+  {
+    "CurrencyName": "Aruban or Dutch Guilder",
+    "CurrencyCode": "awg"
+  },
+  {
+    "CurrencyName": "Axie Infinity",
+    "CurrencyCode": "axs"
+  },
+  {
+    "CurrencyName": "Azerbaijani Manat",
+    "CurrencyCode": "azm"
+  },
+  {
+    "CurrencyName": "Azerbaijan Manat",
+    "CurrencyCode": "azn"
+  },
+  {
+    "CurrencyName": "BakeryToken",
+    "CurrencyCode": "bake"
+  },
+  {
+    "CurrencyName": "Bosnian Convertible Mark",
+    "CurrencyCode": "bam"
+  },
+  {
+    "CurrencyName": "Basic Attention Token",
+    "CurrencyCode": "bat"
+  },
+  {
+    "CurrencyName": "Barbadian or Bajan Dollar",
+    "CurrencyCode": "bbd"
+  },
+  {
+    "CurrencyName": "Bitcoin Cash",
+    "CurrencyCode": "bch"
+  },
+  {
+    "CurrencyName": "Bangladeshi Taka",
+    "CurrencyCode": "bdt"
+  },
+  {
+    "CurrencyName": "Belgian Franc",
+    "CurrencyCode": "bef"
+  },
+  {
+    "CurrencyName": "Bulgarian Lev",
+    "CurrencyCode": "bgn"
+  },
+  {
+    "CurrencyName": "Bahraini Dinar",
+    "CurrencyCode": "bhd"
+  },
+  {
+    "CurrencyName": "Burundian Franc",
+    "CurrencyCode": "bif"
+  },
+  {
+    "CurrencyName": "Bermudian Dollar",
+    "CurrencyCode": "bmd"
+  },
+  {
+    "CurrencyName": "Binance Coin",
+    "CurrencyCode": "bnb"
+  },
+  {
+    "CurrencyName": "Bruneian Dollar",
+    "CurrencyCode": "bnd"
+  },
+  {
+    "CurrencyName": "Bolivian Bolíviano",
+    "CurrencyCode": "bob"
+  },
+  {
+    "CurrencyName": "Brazilian Real",
+    "CurrencyCode": "brl"
+  },
+  {
+    "CurrencyName": "Bahamian Dollar",
+    "CurrencyCode": "bsd"
+  },
+  {
+    "CurrencyName": "Bitcoin SV",
+    "CurrencyCode": "bsv"
+  },
+  {
+    "CurrencyName": "Biswap",
+    "CurrencyCode": "bsw"
+  },
+  {
+    "CurrencyName": "Bitcoin",
+    "CurrencyCode": "btc"
+  },
+  {
+    "CurrencyName": "Bitcoin BEP2",
+    "CurrencyCode": "btcb"
+  },
+  {
+    "CurrencyName": "Bitcoin Gold",
+    "CurrencyCode": "btg"
+  },
+  {
+    "CurrencyName": "Bhutanese Ngultrum",
+    "CurrencyCode": "btn"
+  },
+  {
+    "CurrencyName": "BitTorrent",
+    "CurrencyCode": "btt"
+  },
+  {
+    "CurrencyName": "Binance USD",
+    "CurrencyCode": "busd"
+  },
+  {
+    "CurrencyName": "Botswana Pula",
+    "CurrencyCode": "bwp"
+  },
+  {
+    "CurrencyName": "Belarusian Ruble",
+    "CurrencyCode": "byn"
+  },
+  {
+    "CurrencyName": "Belarusian Ruble",
+    "CurrencyCode": "byr"
+  },
+  {
+    "CurrencyName": "Belizean Dollar",
+    "CurrencyCode": "bzd"
+  },
+  {
+    "CurrencyName": "Canadian Dollar",
+    "CurrencyCode": "cad"
+  },
+  {
+    "CurrencyName": "PancakeSwap",
+    "CurrencyCode": "cake"
+  },
+  {
+    "CurrencyName": "Congolese Franc",
+    "CurrencyCode": "cdf"
+  },
+  {
+    "CurrencyName": "Celo",
+    "CurrencyCode": "celo"
+  },
+  {
+    "CurrencyName": "Conflux",
+    "CurrencyCode": "cfx"
+  },
+  {
+    "CurrencyName": "Swiss Franc",
+    "CurrencyCode": "chf"
+  },
+  {
+    "CurrencyName": "Chiliz",
+    "CurrencyCode": "chz"
+  },
+  {
+    "CurrencyName": "Chilean Peso",
+    "CurrencyCode": "clp"
+  },
+  {
+    "CurrencyName": "Chinese Yuan Renminbi Offshore",
+    "CurrencyCode": "cnh"
+  },
+  {
+    "CurrencyName": "Chinese Yuan Renminbi",
+    "CurrencyCode": "cny"
+  },
+  {
+    "CurrencyName": "Compound",
+    "CurrencyCode": "comp"
+  },
+  {
+    "CurrencyName": "Colombian Peso",
+    "CurrencyCode": "cop"
+  },
+  {
+    "CurrencyName": "Costa Rican Colon",
+    "CurrencyCode": "crc"
+  },
+  {
+    "CurrencyName": "Crypto.com Chain",
+    "CurrencyCode": "cro"
+  },
+  {
+    "CurrencyName": "Curve DAO Token",
+    "CurrencyCode": "crv"
+  },
+  {
+    "CurrencyName": "Casper",
+    "CurrencyCode": "cspr"
+  },
+  {
+    "CurrencyName": "Cuban Convertible Peso",
+    "CurrencyCode": "cuc"
+  },
+  {
+    "CurrencyName": "Cuban Peso",
+    "CurrencyCode": "cup"
+  },
+  {
+    "CurrencyName": "Cape Verdean Escudo",
+    "CurrencyCode": "cve"
+  },
+  {
+    "CurrencyName": "Convex Finance",
+    "CurrencyCode": "cvx"
+  },
+  {
+    "CurrencyName": "Cypriot Pound",
+    "CurrencyCode": "cyp"
+  },
+  {
+    "CurrencyName": "Czech Koruna",
+    "CurrencyCode": "czk"
+  },
+  {
+    "CurrencyName": "DAI",
+    "CurrencyCode": "dai"
+  },
+  {
+    "CurrencyName": "Digital Cash",
+    "CurrencyCode": "dash"
+  },
+  {
+    "CurrencyName": "Decred",
+    "CurrencyCode": "dcr"
+  },
+  {
+    "CurrencyName": "German Deutsche Mark",
+    "CurrencyCode": "dem"
+  },
+  {
+    "CurrencyName": "DfiStarter",
+    "CurrencyCode": "dfi"
+  },
+  {
+    "CurrencyName": "Djiboutian Franc",
+    "CurrencyCode": "djf"
+  },
+  {
+    "CurrencyName": "Danish Krone",
+    "CurrencyCode": "dkk"
+  },
+  {
+    "CurrencyName": "Dogecoin",
+    "CurrencyCode": "doge"
+  },
+  {
+    "CurrencyName": "Dominican Peso",
+    "CurrencyCode": "dop"
+  },
+  {
+    "CurrencyName": "Polkadot",
+    "CurrencyCode": "dot"
+  },
+  {
+    "CurrencyName": "dYdX",
+    "CurrencyCode": "dydx"
+  },
+  {
+    "CurrencyName": "Algerian Dinar",
+    "CurrencyCode": "dzd"
+  },
+  {
+    "CurrencyName": "Estonian Kroon",
+    "CurrencyCode": "eek"
+  },
+  {
+    "CurrencyName": "Elrond",
+    "CurrencyCode": "egld"
+  },
+  {
+    "CurrencyName": "Egyptian Pound",
+    "CurrencyCode": "egp"
+  },
+  {
+    "CurrencyName": "Enjin Coin",
+    "CurrencyCode": "enj"
+  },
+  {
+    "CurrencyName": "EOS",
+    "CurrencyCode": "eos"
+  },
+  {
+    "CurrencyName": "Eritrean Nakfa",
+    "CurrencyCode": "ern"
+  },
+  {
+    "CurrencyName": "Spanish Peseta",
+    "CurrencyCode": "esp"
+  },
+  {
+    "CurrencyName": "Ethiopian Birr",
+    "CurrencyCode": "etb"
+  },
+  {
+    "CurrencyName": "Ethereum Classic",
+    "CurrencyCode": "etc"
+  },
+  {
+    "CurrencyName": "Ethereum",
+    "CurrencyCode": "eth"
+  },
+  {
+    "CurrencyName": "Euro",
+    "CurrencyCode": "eur"
+  },
+  {
+    "CurrencyName": "Fei USD",
+    "CurrencyCode": "fei"
+  },
+  {
+    "CurrencyName": "Filecoin",
+    "CurrencyCode": "fil"
+  },
+  {
+    "CurrencyName": "Finnish Markka",
+    "CurrencyCode": "fim"
+  },
+  {
+    "CurrencyName": "Fijian Dollar",
+    "CurrencyCode": "fjd"
+  },
+  {
+    "CurrencyName": "Falkland Island Pound",
+    "CurrencyCode": "fkp"
+  },
+  {
+    "CurrencyName": "Flow",
+    "CurrencyCode": "flow"
+  },
+  {
+    "CurrencyName": "FLARE",
+    "CurrencyCode": "flr"
+  },
+  {
+    "CurrencyName": "Frax",
+    "CurrencyCode": "frax"
+  },
+  {
+    "CurrencyName": "French Franc",
+    "CurrencyCode": "frf"
+  },
+  {
+    "CurrencyName": "FarmaTrust",
+    "CurrencyCode": "ftt"
+  },
+  {
+    "CurrencyName": "Frax Share",
+    "CurrencyCode": "fxs"
+  },
+  {
+    "CurrencyName": "Gala",
+    "CurrencyCode": "gala"
+  },
+  {
+    "CurrencyName": "British Pound",
+    "CurrencyCode": "gbp"
+  },
+  {
+    "CurrencyName": "Georgian Lari",
+    "CurrencyCode": "gel"
+  },
+  {
+    "CurrencyName": "Guernsey Pound",
+    "CurrencyCode": "ggp"
+  },
+  {
+    "CurrencyName": "Ghanaian Cedi",
+    "CurrencyCode": "ghc"
+  },
+  {
+    "CurrencyName": "Ghanaian Cedi",
+    "CurrencyCode": "ghs"
+  },
+  {
+    "CurrencyName": "Gibraltar Pound",
+    "CurrencyCode": "gip"
+  },
+  {
+    "CurrencyName": "Gambian Dalasi",
+    "CurrencyCode": "gmd"
+  },
+  {
+    "CurrencyName": "Goldmaxcoin",
+    "CurrencyCode": "gmx"
+  },
+  {
+    "CurrencyName": "Guinean Franc",
+    "CurrencyCode": "gnf"
+  },
+  {
+    "CurrencyName": "Gnosis",
+    "CurrencyCode": "gno"
+  },
+  {
+    "CurrencyName": "Greek Drachma",
+    "CurrencyCode": "grd"
+  },
+  {
+    "CurrencyName": "The Graph",
+    "CurrencyCode": "grt"
+  },
+  {
+    "CurrencyName": "GateToken",
+    "CurrencyCode": "gt"
+  },
+  {
+    "CurrencyName": "Guatemalan Quetzal",
+    "CurrencyCode": "gtq"
+  },
+  {
+    "CurrencyName": "Gemini US Dollar",
+    "CurrencyCode": "gusd"
+  },
+  {
+    "CurrencyName": "Guyanese Dollar",
+    "CurrencyCode": "gyd"
+  },
+  {
+    "CurrencyName": "Hedera",
+    "CurrencyCode": "hbar"
+  },
+  {
+    "CurrencyName": "Hong Kong Dollar",
+    "CurrencyCode": "hkd"
+  },
+  {
+    "CurrencyName": "Honduran Lempira",
+    "CurrencyCode": "hnl"
+  },
+  {
+    "CurrencyName": "Helium",
+    "CurrencyCode": "hnt"
+  },
+  {
+    "CurrencyName": "Hydro Protocol",
+    "CurrencyCode": "hot"
+  },
+  {
+    "CurrencyName": "Croatian Kuna",
+    "CurrencyCode": "hrk"
+  },
+  {
+    "CurrencyName": "Huobi Token",
+    "CurrencyCode": "ht"
+  },
+  {
+    "CurrencyName": "Haitian Gourde",
+    "CurrencyCode": "htg"
+  },
+  {
+    "CurrencyName": "Hungarian Forint",
+    "CurrencyCode": "huf"
+  },
+  {
+    "CurrencyName": "Internet Computer",
+    "CurrencyCode": "icp"
+  },
+  {
+    "CurrencyName": "Indonesian Rupiah",
+    "CurrencyCode": "idr"
+  },
+  {
+    "CurrencyName": "Irish Pound",
+    "CurrencyCode": "iep"
+  },
+  {
+    "CurrencyName": "Israeli Shekel",
+    "CurrencyCode": "ils"
+  },
+  {
+    "CurrencyName": "Isle of Man Pound",
+    "CurrencyCode": "imp"
+  },
+  {
+    "CurrencyName": "Immutable X",
+    "CurrencyCode": "imx"
+  },
+  {
+    "CurrencyName": "Injective",
+    "CurrencyCode": "inj"
+  },
+  {
+    "CurrencyName": "Indian Rupee",
+    "CurrencyCode": "inr"
+  },
+  {
+    "CurrencyName": "Iraqi Dinar",
+    "CurrencyCode": "iqd"
+  },
+  {
+    "CurrencyName": "Iranian Rial",
+    "CurrencyCode": "irr"
+  },
+  {
+    "CurrencyName": "Icelandic Krona",
+    "CurrencyCode": "isk"
+  },
+  {
+    "CurrencyName": "Italian Lira",
+    "CurrencyCode": "itl"
+  },
+  {
+    "CurrencyName": "Jersey Pound",
+    "CurrencyCode": "jep"
+  },
+  {
+    "CurrencyName": "Jamaican Dollar",
+    "CurrencyCode": "jmd"
+  },
+  {
+    "CurrencyName": "Jordanian Dinar",
+    "CurrencyCode": "jod"
+  },
+  {
+    "CurrencyName": "Japanese Yen",
+    "CurrencyCode": "jpy"
+  },
+  {
+    "CurrencyName": "Kava",
+    "CurrencyCode": "kava"
+  },
+  {
+    "CurrencyName": "Kucoin",
+    "CurrencyCode": "kcs"
+  },
+  {
+    "CurrencyName": "Kadena",
+    "CurrencyCode": "kda"
+  },
+  {
+    "CurrencyName": "Kenyan Shilling",
+    "CurrencyCode": "kes"
+  },
+  {
+    "CurrencyName": "Kyrgyzstani Som",
+    "CurrencyCode": "kgs"
+  },
+  {
+    "CurrencyName": "Cambodian Riel",
+    "CurrencyCode": "khr"
+  },
+  {
+    "CurrencyName": "Klaytn",
+    "CurrencyCode": "klay"
+  },
+  {
+    "CurrencyName": "Comorian Franc",
+    "CurrencyCode": "kmf"
+  },
+  {
+    "CurrencyName": "Kyber Network Crystals",
+    "CurrencyCode": "knc"
+  },
+  {
+    "CurrencyName": "North Korean Won",
+    "CurrencyCode": "kpw"
+  },
+  {
+    "CurrencyName": "South Korean Won",
+    "CurrencyCode": "krw"
+  },
+  {
+    "CurrencyName": "Kusama",
+    "CurrencyCode": "ksm"
+  },
+  {
+    "CurrencyName": "Kuwaiti Dinar",
+    "CurrencyCode": "kwd"
+  },
+  {
+    "CurrencyName": "Caymanian Dollar",
+    "CurrencyCode": "kyd"
+  },
+  {
+    "CurrencyName": "Kazakhstani Tenge",
+    "CurrencyCode": "kzt"
+  },
+  {
+    "CurrencyName": "Lao Kip",
+    "CurrencyCode": "lak"
+  },
+  {
+    "CurrencyName": "Lebanese Pound",
+    "CurrencyCode": "lbp"
+  },
+  {
+    "CurrencyName": "Lido DAO Token",
+    "CurrencyCode": "ldo"
+  },
+  {
+    "CurrencyName": "LEOcoin",
+    "CurrencyCode": "leo"
+  },
+  {
+    "CurrencyName": "Chainlink",
+    "CurrencyCode": "link"
+  },
+  {
+    "CurrencyName": "Sri Lankan Rupee",
+    "CurrencyCode": "lkr"
+  },
+  {
+    "CurrencyName": "Loopring",
+    "CurrencyCode": "lrc"
+  },
+  {
+    "CurrencyName": "Liberian Dollar",
+    "CurrencyCode": "lrd"
+  },
+  {
+    "CurrencyName": "Basotho Loti",
+    "CurrencyCode": "lsl"
+  },
+  {
+    "CurrencyName": "Litecoin",
+    "CurrencyCode": "ltc"
+  },
+  {
+    "CurrencyName": "Lithuanian Litas",
+    "CurrencyCode": "ltl"
+  },
+  {
+    "CurrencyName": "Luxembourg Franc",
+    "CurrencyCode": "luf"
+  },
+  {
+    "CurrencyName": "Terra",
+    "CurrencyCode": "luna"
+  },
+  {
+    "CurrencyName": "Latvian Lat",
+    "CurrencyCode": "lvl"
+  },
+  {
+    "CurrencyName": "Libyan Dinar",
+    "CurrencyCode": "lyd"
+  },
+  {
+    "CurrencyName": "Moroccan Dirham",
+    "CurrencyCode": "mad"
+  },
+  {
+    "CurrencyName": "Mana Coin Decentraland",
+    "CurrencyCode": "mana"
+  },
+  {
+    "CurrencyName": "Polygon",
+    "CurrencyCode": "matic"
+  },
+  {
+    "CurrencyName": "MobieCoin",
+    "CurrencyCode": "mbx"
+  },
+  {
+    "CurrencyName": "Moldovan Leu",
+    "CurrencyCode": "mdl"
+  },
+  {
+    "CurrencyName": "Malagasy Ariary",
+    "CurrencyCode": "mga"
+  },
+  {
+    "CurrencyName": "Malagasy Franc",
+    "CurrencyCode": "mgf"
+  },
+  {
+    "CurrencyName": "Mina",
+    "CurrencyCode": "mina"
+  },
+  {
+    "CurrencyName": "Macedonian Denar",
+    "CurrencyCode": "mkd"
+  },
+  {
+    "CurrencyName": "Maker",
+    "CurrencyCode": "mkr"
+  },
+  {
+    "CurrencyName": "Burmese Kyat",
+    "CurrencyCode": "mmk"
+  },
+  {
+    "CurrencyName": "Mongolian Tughrik",
+    "CurrencyCode": "mnt"
+  },
+  {
+    "CurrencyName": "Macau Pataca",
+    "CurrencyCode": "mop"
+  },
+  {
+    "CurrencyName": "Mauritanian Ouguiya",
+    "CurrencyCode": "mro"
+  },
+  {
+    "CurrencyName": "Mauritanian Ouguiya",
+    "CurrencyCode": "mru"
+  },
+  {
+    "CurrencyName": "Maltese Lira",
+    "CurrencyCode": "mtl"
+  },
+  {
+    "CurrencyName": "Mauritian Rupee",
+    "CurrencyCode": "mur"
+  },
+  {
+    "CurrencyName": "Maldivian Rufiyaa",
+    "CurrencyCode": "mvr"
+  },
+  {
+    "CurrencyName": "Mexican Peso",
+    "CurrencyCode": "mxn"
+  },
+  {
+    "CurrencyName": "Myanma Kyat",
+    "CurrencyCode": "mxy"
+  },
+  {
+    "CurrencyName": "Malaysian Ringgit",
+    "CurrencyCode": "myr"
+  },
+  {
+    "CurrencyName": "Mozambican Metical",
+    "CurrencyCode": "mzn"
+  },
+  {
+    "CurrencyName": "Namibian Dollar",
+    "CurrencyCode": "nad"
+  },
+  {
+    "CurrencyName": "Nigerian Naira",
+    "CurrencyCode": "ngn"
+  },
+  {
+    "CurrencyName": "Nicaraguan Córdoba",
+    "CurrencyCode": "nic"
+  },
+  {
+    "CurrencyName": "Nicaraguan Córdobas",
+    "CurrencyCode": "nio"
+  },
+  {
+    "CurrencyName": "Norwegian Krone",
+    "CurrencyCode": "nok"
+  },
+  {
+    "CurrencyName": "Neutrino USD",
+    "CurrencyCode": "nusd"
+  },
+  {
+    "CurrencyName": "New Zealand Dollar",
+    "CurrencyCode": "nzd"
+  },
+  {
+    "CurrencyName": "Nexus Mutual",
+    "CurrencyCode": "nxm"
+  },
+  {
+    "CurrencyName": "Nigerian Naira",
+    "CurrencyCode": "ngn"
+  },
+  {
+    "CurrencyName": "Omani Rial",
+    "CurrencyCode": "omr"
+  },
+  {
+    "CurrencyName": "Nigerian Naira",
+    "CurrencyCode": "ngn"
+  }
+]
