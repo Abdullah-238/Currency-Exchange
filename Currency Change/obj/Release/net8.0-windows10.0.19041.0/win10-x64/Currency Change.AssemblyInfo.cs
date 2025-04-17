@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Currency Change")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+55be1b7f76b6722a5f1a9c33ec763a86adcecc42")]
 [assembly: System.Reflection.AssemblyProductAttribute("Currency Change")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Currency Change")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
