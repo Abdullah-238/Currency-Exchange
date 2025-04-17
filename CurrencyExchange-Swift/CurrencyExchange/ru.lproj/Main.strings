@@ -1,0 +1,98 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "0UO-MO-HVc"; */
+"0UO-MO-HVc.text" = "Метка";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2iU-8f-JMZ"; */
+"2iU-8f-JMZ.text" = "Метка";
+
+/* Class = "UIButton"; configuration.title = "Change Language"; ObjectID = "Agx-W4-Oqp"; */
+"Agx-W4-Oqp.configuration.title" = "Изменить язык";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Agx-W4-Oqp"; */
+"Agx-W4-Oqp.normalTitle" = "Кнопка";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Aq9-c0-adp"; */
+"Aq9-c0-adp.text" = "Заголовок";
+
+/* Class = "UILabel"; text = "About the App"; ObjectID = "BDP-Rp-Wjc"; */
+"BDP-Rp-Wjc.text" = "О приложении";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Bl5-iV-oF6"; */
+"Bl5-iV-oF6.text" = "От";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "Gdo-pa-YlE"; */
+"Gdo-pa-YlE.title" = "Конвертировать";
+
+/* Class = "UILabel"; text = "Enter the amount"; ObjectID = "JcK-sa-bVr"; */
+"JcK-sa-bVr.text" = "Введите сумму";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "LB6-vN-h9u"; */
+"LB6-vN-h9u.title" = "Избранное";
+
+/* Class = "UILabel"; text = "The price in $ "; ObjectID = "M0N-GI-M2Z"; */
+"M0N-GI-M2Z.text" = "Цена в $";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oeu-5f-hu7"; */
+"Oeu-5f-hu7.text" = "Метка";
+
+/* Class = "UITabBarItem"; title = "In USD"; ObjectID = "Ouq-hC-ZQj"; */
+"Ouq-hC-ZQj.title" = "В USD";
+
+/* Class = "UILabel"; text = "Desc"; ObjectID = "S6y-HC-Bgr"; */
+"S6y-HC-Bgr.text" = "Описание";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "T8l-KZ-P5k"; */
+"T8l-KZ-P5k.text" = "0";
+
+/* Class = "UITabBarItem"; title = "Currencies"; ObjectID = "U1b-VY-kox"; */
+"U1b-VY-kox.title" = "Валюты";
+
+/* Class = "UIButton"; configuration.title = "Convert"; ObjectID = "VQ1-4g-fRz"; */
+"VQ1-4g-fRz.configuration.title" = "Конвертировать";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VQ1-4g-fRz"; */
+"VQ1-4g-fRz.normalTitle" = "Кнопка";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "Wjo-Bm-opt"; */
+"Wjo-Bm-opt.text" = "Кому";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YEr-wt-gri"; */
+"YEr-wt-gri.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Dark mode"; ObjectID = "ZwF-oR-g5v"; */
+"ZwF-oR-g5v.text" = "Тёмный режим";
+
+/* Class = "UITextView"; text = "Currency Exchange is the perfect tool for fast and easy currency conversion. The app provides real-time exchange rates and allows you to convert currencies between various countries accurately and reliably.\n\nThe goal of Currency Exchange is to simplify the currency conversion experience, whether you're traveling, trading currencies, or just need to know daily exchange rates. With a simple and intuitive interface, you can convert currencies quickly, anytime and anywhere.\n\nThe app also features advanced tools like charts to track exchange rate fluctuations, helping you make better financial decisions.\n\nIf you have any questions or feedback, feel free to reach out to us via :"; ObjectID = "f6K-WS-uzR"; */
+"f6K-WS-uzR.text" = "Обмен валют — это идеальный инструмент для быстрого и легкого обмена валют. Приложение предоставляет актуальные обменные курсы и позволяет точно и надежно конвертировать валюты между различными странами.\n\nЦель обмена валют — упростить процесс обмена валют, будь то путешествия, обмен валют или просто знание актуальных курсов. С простым и интуитивно понятным интерфейсом вы можете быстро обменивать валюты в любое время и в любом месте.\n\nПриложение также включает в себя инструменты для анализа, такие как графики для отслеживания колебаний обменных курсов, что помогает принимать более обоснованные финансовые решения.\n\nЕсли у вас есть вопросы или предложения, не стесняйтесь связаться с нами через :";
+
+/* Class = "UILabel"; text = "The list of currencies is empty"; ObjectID = "fJD-CW-48H"; */
+"fJD-CW-48H.text" = "Список валют пуст";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fid-ue-a74"; */
+"fid-ue-a74.text" = "Метка";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iqT-0c-Etv"; */
+"iqT-0c-Etv.text" = "Метка";
+
+/* Class = "UILabel"; text = "Favorites list is empty"; ObjectID = "lcv-0H-o4V"; */
+"lcv-0H-o4V.text" = "Список избранных пуст";
+
+/* Class = "UILabel"; text = "Select the currency"; ObjectID = "mPR-WN-4TI"; */
+"mPR-WN-4TI.text" = "Выберите валюту";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mdP-Hm-DMt"; */
+"mdP-Hm-DMt.text" = "Метка";
+
+/* Class = "UITabBarController"; title = "Favorte"; ObjectID = "rEM-Mx-K9F"; */
+"rEM-Mx-K9F.title" = "Избранное";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wGK-V0-c32"; */
+"wGK-V0-c32.text" = "0";
+
+/* Class = "UILabel"; text = "Choose you favorite language"; ObjectID = "wPo-Hc-nT4"; */
+"wPo-Hc-nT4.text" = "Выберите ваш любимый язык";
+
+"Rh9-M3-1xU.text" = "Версия";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "yBI-BL-WfZ"; */
+"yBI-BL
+
