@@ -1,0 +1,97 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "0UO-MO-HVc"; */
+"0UO-MO-HVc.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2iU-8f-JMZ"; */
+"2iU-8f-JMZ.text" = "Rótulo";
+
+/* Class = "UIButton"; configuration.title = "Change Language"; ObjectID = "Agx-W4-Oqp"; */
+"Agx-W4-Oqp.configuration.title" = "Alterar idioma";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Agx-W4-Oqp"; */
+"Agx-W4-Oqp.normalTitle" = "Botão";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Aq9-c0-adp"; */
+"Aq9-c0-adp.text" = "Título";
+
+/* Class = "UILabel"; text = "About the App"; ObjectID = "BDP-Rp-Wjc"; */
+"BDP-Rp-Wjc.text" = "Sobre o aplicativo";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Bl5-iV-oF6"; */
+"Bl5-iV-oF6.text" = "De";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "Gdo-pa-YlE"; */
+"Gdo-pa-YlE.title" = "Converter";
+
+/* Class = "UILabel"; text = "Enter the amount"; ObjectID = "JcK-sa-bVr"; */
+"JcK-sa-bVr.text" = "Digite o valor";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "LB6-vN-h9u"; */
+"LB6-vN-h9u.title" = "Favorito";
+
+/* Class = "UILabel"; text = "The price in $ "; ObjectID = "M0N-GI-M2Z"; */
+"M0N-GI-M2Z.text" = "O preço em $";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oeu-5f-hu7"; */
+"Oeu-5f-hu7.text" = "Rótulo";
+
+/* Class = "UITabBarItem"; title = "In USD"; ObjectID = "Ouq-hC-ZQj"; */
+"Ouq-hC-ZQj.title" = "Em USD";
+
+/* Class = "UILabel"; text = "Desc"; ObjectID = "S6y-HC-Bgr"; */
+"S6y-HC-Bgr.text" = "Descrição";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "T8l-KZ-P5k"; */
+"T8l-KZ-P5k.text" = "0";
+
+/* Class = "UITabBarItem"; title = "Currencies"; ObjectID = "U1b-VY-kox"; */
+"U1b-VY-kox.title" = "Moedas";
+
+/* Class = "UIButton"; configuration.title = "Convert"; ObjectID = "VQ1-4g-fRz"; */
+"VQ1-4g-fRz.configuration.title" = "Converter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VQ1-4g-fRz"; */
+"VQ1-4g-fRz.normalTitle" = "Botão";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "Wjo-Bm-opt"; */
+"Wjo-Bm-opt.text" = "Para";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YEr-wt-gri"; */
+"YEr-wt-gri.title" = "Configurações";
+
+/* Class = "UILabel"; text = "Dark mode"; ObjectID = "ZwF-oR-g5v"; */
+"ZwF-oR-g5v.text" = "Modo escuro";
+
+/* Class = "UITextView"; text = "Currency Exchange is the perfect tool for fast and easy currency conversion. The app provides real-time exchange rates and allows you to convert currencies between various countries accurately and reliably.\n\nThe goal of Currency Exchange is to simplify the currency conversion experience, whether you're traveling, trading currencies, or just need to know daily exchange rates. With a simple and intuitive interface, you can convert currencies quickly, anytime and anywhere.\n\nThe app also features advanced tools like charts to track exchange rate fluctuations, helping you make better financial decisions.\n\nIf you have any questions or feedback, feel free to reach out to us via :"; ObjectID = "f6K-WS-uzR"; */
+"f6K-WS-uzR.text" = "A troca de moeda é a ferramenta perfeita para uma conversão de moeda rápida e fácil. O aplicativo fornece taxas de câmbio em tempo real e permite que você converta moedas entre vários países com precisão e confiabilidade.\n\nO objetivo da Troca de Moeda é simplificar a experiência de conversão de moedas, seja você estiver viajando, negociando moedas ou apenas precisar saber as taxas de câmbio diárias. Com uma interface simples e intuitiva, você pode converter moedas rapidamente, a qualquer hora e em qualquer lugar.\n\nO aplicativo também possui ferramentas avançadas como gráficos para acompanhar as flutuações das taxas de câmbio, ajudando você a tomar decisões financeiras melhores.\n\nSe você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco através de :";
+
+/* Class = "UILabel"; text = "The list of currencies is empty"; ObjectID = "fJD-CW-48H"; */
+"fJD-CW-48H.text" = "A lista de moedas está vazia";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fid-ue-a74"; */
+"fid-ue-a74.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iqT-0c-Etv"; */
+"iqT-0c-Etv.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Favorites list is empty"; ObjectID = "lcv-0H-o4V"; */
+"lcv-0H-o4V.text" = "A lista de favoritos está vazia";
+
+/* Class = "UILabel"; text = "Select the currency"; ObjectID = "mPR-WN-4TI"; */
+"mPR-WN-4TI.text" = "Selecione a moeda";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mdP-Hm-DMt"; */
+"mdP-Hm-DMt.text" = "Rótulo";
+
+/* Class = "UITabBarController"; title = "Favorte"; ObjectID = "rEM-Mx-K9F"; */
+"rEM-Mx-K9F.title" = "Favoritos";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wGK-V0-c32"; */
+"wGK-V0-c32.text" = "0";
+
+/* Class = "UILabel"; text = "Choose you favorite language"; ObjectID = "wPo-Hc-nT4"; */
+"wPo-Hc-nT4.text" = "Escolha seu idioma favorito";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "yBI-BL-WfZ"; */
+"yBI-BL-WfZ.placeholder" = "Valor";
+
+"Rh9-M3-1xU.text" = "Versão";
